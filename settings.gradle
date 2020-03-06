@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Tatiane_C0755772_TestLab1'
